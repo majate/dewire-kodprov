@@ -1,0 +1,23 @@
+{
+  "name": "dewire-kodprov",
+  "version": "1.0.0",
+  "description": "Translation web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majate/dewire-kodprov.git"
+  },
+  "author": "Maja Tennander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majate/dewire-kodprov/issues"
+  },
+  "homepage": "https://github.com/majate/dewire-kodprov#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
